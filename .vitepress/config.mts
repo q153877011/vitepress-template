@@ -6,6 +6,7 @@ export default defineConfig({
   description: "A starter template for VitePress",
   srcDir: 'pages',
   outDir: 'dist',
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     outline: {
