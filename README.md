@@ -21,11 +21,17 @@ A clean and customizable VitePress documentation template with a well-organized 
 ├── .vitepress/          # VitePress configuration
 │   ├── config.mts       # Site configuration
 │   └── theme/           # Custom theme files
+│       └── style.css    # Custom styles
 ├── pages/              # Documentation pages
+│   ├── index.md        # Home page
 │   ├── quick-start/    # Quick start guide
 │   ├── advanced/       # Advanced topics
+│   ├── deployment/     # Deployment guides
 │   └── examples/       # Examples
-└── package.json        # Project dependencies
+├── dist/               # Build output directory
+├── package.json        # Project dependencies
+├── edgeone.json        # Project deployment parameters
+└── .gitignore         # Git ignore rules
 ```
 
 ## Getting Started

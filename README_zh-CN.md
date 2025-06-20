@@ -21,11 +21,17 @@
 ├── .vitepress/          # VitePress 配置
 │   ├── config.mts       # 站点配置
 │   └── theme/           # 自定义主题文件
+│       └── style.css    # 自定义样式
 ├── pages/              # 文档页面
+│   ├── index.md        # 首页
 │   ├── quick-start/    # 快速开始指南
 │   ├── advanced/       # 进阶主题
+│   ├── deployment/     # 部署指南
 │   └── examples/       # 示例
-└── package.json        # 项目依赖
+├── dist/               # 构建输出目录
+├── package.json        # 项目依赖
+├── edgeone.json        # 项目部署参数
+└── .gitignore         # Git 忽略规则
 ```
 
 ## 快速开始
