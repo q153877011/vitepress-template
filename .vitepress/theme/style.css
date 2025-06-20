@@ -177,20 +177,10 @@
   font-weight: 600 !important;
 }
 
-/* 侧边栏整体缩进 */
-.VPSidebarItem.level-0 {
-  padding-left: 12px;
-}
-
 /* 二级目录样式 */
 .VPSidebarItem.level-1 {
   padding-left: 8px;
   font-size: 10px;  /* 设置更小的字体大小 */
-}
-
-.VPDocOutlineItem li {
-  font-size: 12px;
-  padding-left: 8px !important;
 }
 
 /* 右侧目录样式调整 */
@@ -207,11 +197,5 @@
 .VPDocOutlineItem.level-3 {
   font-size: 12px;
   padding-left: 16px !important;
-}
-
-/* 通用样式 */
-.VPDocOutlineItem li {
-  font-size: 12px;
-  padding-left: 8px !important;
 }
 
