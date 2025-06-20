@@ -1,0 +1,72 @@
+# VitePress Documentation Template
+
+A clean and customizable VitePress documentation template with a well-organized structure and modern design.
+
+![](https://edgeone.ai/media/20ac3c7d-e4ae-42fe-822e-55e0be1c7192.png)
+
+## Features
+
+- 📚 Well-organized documentation structure
+- 🎨 Customized theme and styling
+- 📱 Responsive design
+- 🔍 Full-text search
+- 📦 Easy to deploy
+- 🚀 Fast and lightweight
+
+## Directory Structure
+
+```
+.
+├── .vitepress/          # VitePress configuration
+│   ├── config.mts       # Site configuration
+│   └── theme/           # Custom theme files
+├── pages/              # Documentation pages
+│   ├── quick-start/    # Quick start guide
+│   ├── advanced/       # Advanced topics
+│   └── examples/       # Examples
+└── package.json        # Project dependencies
+```
+
+## Getting Started
+
+1. **Installation**
+
+```bash
+# Clone the repository
+git clone [your-repo-url]
+
+# Install dependencies
+npm install
+```
+
+2. **Development**
+
+```bash
+# Start local development server
+npm run dev
+```
+
+3. **Build**
+
+```bash
+# Build for production
+npm run build
+```
+
+4. **Preview**
+
+```bash
+# Preview production build
+npm run preview
+```
+
+## Documentation Structure
+
+- **Quick Start**: Basic setup and configuration guide
+- **Advanced**: In-depth topics and customization
+- **Examples**: Markdown and API usage examples
+- **Deployment**: Deployment guides for various platforms
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
