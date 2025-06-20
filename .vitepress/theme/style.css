@@ -188,3 +188,30 @@
   font-size: 10px;  /* 设置更小的字体大小 */
 }
 
+.VPDocOutlineItem li {
+  font-size: 12px;
+  padding-left: 8px !important;
+}
+
+/* 右侧目录样式调整 */
+.VPDocOutlineItem.level-1 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.VPDocOutlineItem.level-2 {
+  font-size: 12px;
+  padding-left: 8px !important;
+}
+
+.VPDocOutlineItem.level-3 {
+  font-size: 12px;
+  padding-left: 16px !important;
+}
+
+/* 通用样式 */
+.VPDocOutlineItem li {
+  font-size: 12px;
+  padding-left: 8px !important;
+}
+

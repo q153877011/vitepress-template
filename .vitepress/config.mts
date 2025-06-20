@@ -8,6 +8,10 @@ export default defineConfig({
   outDir: 'dist',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    outline: {
+      level: [1, 3],    // 显示 h1 到 h3 级别的标题
+      label: '目录导航'  // 大纲标题
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Quick Start', link: '/quick-start/quick-start' },
