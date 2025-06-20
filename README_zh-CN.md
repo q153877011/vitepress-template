@@ -2,7 +2,8 @@
 
 一个简洁可定制的 VitePress 文档模板，具有良好的组织结构和现代化设计。
 
-![](https://edgeone.ai/media/20ac3c7d-e4ae-42fe-822e-55e0be1c7192.png)
+![](https://edgeone.ai/media/49e5304e-1538-47e3-a4be-10bd8c3e1395.png)
+
 
 ## 特性
 
